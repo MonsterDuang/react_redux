@@ -1,0 +1,28 @@
+.cart {
+  width: 100%;
+}
+
+h3 {
+  color: rgb(155, 155, 155)
+}
+
+h3:hover {
+  color: rgb(200, 200, 200)
+}
+
+span {
+  margin-right: 10px
+}
+
+.store-number {
+  width: 20%;
+}
+.empty{
+  text-align: center
+}
+.input-i{
+  width: 125px;
+}
+.hide{
+  display: none
+}
